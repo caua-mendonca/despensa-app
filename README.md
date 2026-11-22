@@ -214,7 +214,7 @@ O SQLite também tem a tabela `sync_meta` (guarda o cursor da última sincroniza
 ### 10.2 Configurar e iniciar o app
 
 ```bash
-git clone <URL-DO-REPOSITORIO>
+git clone https://github.com/caua-mendonca/despensa-app.git
 cd despensa-app
 npm install
 cp .env.example .env        # preencha EXPO_PUBLIC_SUPABASE_URL e EXPO_PUBLIC_SUPABASE_PUBLISHABLE_KEY
